@@ -66,7 +66,8 @@ function OpenAnimationsMenu()
 	ESX.UI.Menu.Open(
 		'default', GetCurrentResourceName(), 'animations',
 		{
-			title    = 'Animations',
+			title = 'Animations',
+			align = 'bottom-right',
 			elements = elements
 		},
 		function(data, menu)
@@ -104,6 +105,7 @@ function OpenAnimationsSubMenu(menu)
 		'default', GetCurrentResourceName(), 'animations_sub',
 		{
 			title    = title,
+			align    = 'bottom-right',
 			elements = elements
 		},
 		function(data, menu)
