@@ -38,7 +38,6 @@ Config.Animations = {
 	    {label = "POLIS : PRATA I RADION", type = "anim", data = {lib = "random@arrests", anim = "generic_radio_chatter"}},
 	    {label = "POLIS : TRAFIK", type = "scenario", data = {anim = "WORLD_HUMAN_CAR_PARK_ATTENDANT"}},
 	    {label = "POLIS : KIKARE", type = "scenario", data = {anim = "WORLD_HUMAN_BINOCULARS"}},
-	    {label = "MEKANIKER : REPARERA UNDER FORDON", type = "scenario", data = {anim = "world_human_vehicle_mechanic"}},
 	    {label = "MEKANIKER : REPARERA MOTORN", type = "anim", data = {lib = "mini@repair", anim = "fixing_a_ped"}},
 	    {label = "LÄKARE : TITTA", type = "scenario", data = {anim = "CODE_HUMAN_MEDIC_KNEEL"}},
 	    {label = "TAXI : PRATA MED KUNDEN", type = "anim", data = {lib = "oddjobs@taxi@driver", anim = "leanover_idle"}},
