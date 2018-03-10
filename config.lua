@@ -115,6 +115,24 @@ Config.Animations = {
 	    {label = "SASSY", type = "attitude", data = {lib = "move_f@sassy", anim = "move_f@sassy"}},	
 	    {label = "ARROGANT", type = "attitude", data = {lib = "move_f@arrogant@a", anim = "move_f@arrogant@a"}},
 		}
+	},
+	
+	{
+		name  = 'porn',
+		label = 'Sexställningar',
+		items = {
+	    {label = "Blow joe #1", type = "anim", data = {lib = "oddjobs@towing", anim = "m_blow_job_loop"}},
+	    {label = "Blow joe #2", type = "anim", data = {lib = "oddjobs@towing", anim = "f_blow_job_loop"}},
+	    {label = "Japp den gärin #1", type = "anim", data = {lib = "mini@prostitutes@sexlow_veh", anim = "low_car_sex_loop_player"}},
+	    {label = "Japp den gärin #2", type = "anim", data = {lib = "mini@prostitutes@sexlow_veh", anim = "low_car_sex_loop_female"}},
+	    {label = "Upper Grab crotch", type = "anim", data = {lib = "mp_player_int_uppergrab_crotch", anim = "mp_player_int_grab_crotch"}},
+	    {label = "Stripper", type = "anim", data = {lib = "mini@strip_club@idles@stripper", anim = "stripper_idle_02"}},
+	    {label = "7", type = "scenario", data = {anim = "WORLD_HUMAN_PROSTITUTE_HIGH_CLASS"}},
+	    {label = "Backstage", type = "anim", data = {lib = "mini@strip_club@backroom@", anim = "stripper_b_backroom_idle_b"}},
+	    {label = "Strip tease #1", type = "anim", data = {lib = "mini@strip_club@lap_dance@ld_girl_a_song_a_p1", anim = "ld_girl_a_song_a_p1_f"}},
+	    {label = "Strip tease #2", type = "anim", data = {lib = "mini@strip_club@private_dance@part2", anim = "priv_dance_p2"}},
+	    {label = "Strip tease #3", type = "anim", data = {lib = "mini@strip_club@private_dance@part3", anim = "priv_dance_p3"}},
+		}
 	}
 
 }
