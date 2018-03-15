@@ -8,7 +8,6 @@ Config.Animations = {
 		items = {
 			{label = "FACEPALM", type = "anim", data = {lib = "anim@mp_player_intcelebrationmale@face_palm", anim = "face_palm"}},
 			{label = "SITT", type = "anim", data = {lib = "anim@heists@prison_heistunfinished_biztarget_idle", anim = "target_idle"}},
-			{label = "SITT PÅ BACKEN", type = "scenario", data = {anim = "WORLD_HUMAN_PICNIC"}},
 			{label = "LEAN", type = "scenario", data = {anim = "world_human_leaning"}},
 			{label = "RÖK EN CIGARETT", type = "scenario", data = {anim = "WORLD_HUMAN_SMOKING"}},
 			{label = "RÖK WEED", type = "scenario", data = {anim = "WORLD_HUMAN_SMOKING_POT"}},
